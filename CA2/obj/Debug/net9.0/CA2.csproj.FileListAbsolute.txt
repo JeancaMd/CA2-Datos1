@@ -12,3 +12,4 @@ C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\refint\CA2.dll
 C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.pdb
 C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.genruntimeconfig.cache
 C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\ref\CA2.dll
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.sourcelink.json
