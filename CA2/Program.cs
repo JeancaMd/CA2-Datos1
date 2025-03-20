@@ -141,7 +141,32 @@ public class CircularLinkedList
         size--;
     }
 
- }
+    public int GetSize()
+    {
+        return this.size;
+    }
+
+    public override string ToString()
+    {
+        if (this.head == null)
+            return string.Empty;
+
+        string result = "";
+        Node current = this.head;
+
+        do
+        {
+            result += current.value.ToString();
+            if (current.next != this.head)
+                result += ",";
+            current = current.next;
+        }
+        while (current != this.head);
+        return result;
+    }
+
+
+}
 
 class Program
 {
