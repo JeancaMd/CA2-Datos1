@@ -1,0 +1,14 @@
+C:\Users\jeank\Desktop\CA2\CA2\bin\Debug\net9.0\CA2.exe
+C:\Users\jeank\Desktop\CA2\CA2\bin\Debug\net9.0\CA2.deps.json
+C:\Users\jeank\Desktop\CA2\CA2\bin\Debug\net9.0\CA2.runtimeconfig.json
+C:\Users\jeank\Desktop\CA2\CA2\bin\Debug\net9.0\CA2.dll
+C:\Users\jeank\Desktop\CA2\CA2\bin\Debug\net9.0\CA2.pdb
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.AssemblyInfoInputs.cache
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.AssemblyInfo.cs
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.csproj.CoreCompileInputs.cache
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.dll
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\refint\CA2.dll
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.pdb
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\CA2.genruntimeconfig.cache
+C:\Users\jeank\Desktop\CA2\CA2\obj\Debug\net9.0\ref\CA2.dll
